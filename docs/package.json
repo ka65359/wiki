@@ -1,0 +1,19 @@
+{
+  "name": "Kai&#39;s Wiki",
+  "version": "0.0.1",
+  "description": "This is a wiki POC",
+  "main": "index.js",
+  "authors": {
+    "name": "Kai Arrowood",
+    "email": "kai.arrowood@konghq.com"
+  },
+  "repository": "https://github.com/ka65359/wiki.git/Kai&#39;s Wiki",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
